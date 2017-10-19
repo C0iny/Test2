@@ -6,4 +6,7 @@ Yo yo yo
 
 Dette er gøy
 
-tester mer
+
+tester litt mer
+
+Nå kan noe ha skjedd
